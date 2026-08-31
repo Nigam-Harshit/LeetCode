@@ -39,6 +39,7 @@
 | ------- |
 | [0189-rotate-array](https://github.com/Nigam-Harshit/LeetCode/tree/master/0189-rotate-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Nigam-Harshit/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [2235-add-two-integers](https://github.com/Nigam-Harshit/LeetCode/tree/master/2235-add-two-integers) |
 ## Two Pointers
 |  |
 | ------- |
