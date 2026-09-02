@@ -7,6 +7,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nigam-Harshit/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nigam-Harshit/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/Nigam-Harshit/LeetCode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Nigam-Harshit/LeetCode/tree/master/0283-move-zeroes) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Nigam-Harshit/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Nigam-Harshit/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/Nigam-Harshit/LeetCode/tree/master/1470-shuffle-the-array) |
@@ -45,6 +46,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nigam-Harshit/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/Nigam-Harshit/LeetCode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Nigam-Harshit/LeetCode/tree/master/0283-move-zeroes) |
 ## Dynamic Programming
 |  |
 | ------- |
